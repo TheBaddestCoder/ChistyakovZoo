@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background: #ffccd4;
+    border-radius: 5px;
+    margin-top: 5px;
+    width: 100%;
+    max-width: 1470px;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Raleway-thin", sans-serif;
+    font-weight: 400;
+    background-image: url(../assets/image_1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-width: 100%;
+    position: absolute;
+    background-color: linear-gradient(90deg, #db7093, #ffccd4);
+}
+
+div {}
+
+a {
+    text-decoration: none;
+    padding: 20px;
+}
+
+.logo {
+    font-size: 96px;
+    margin-left: 121px;
+    margin-top: 82px;
+    font-style: bold;
+    padding-top: 62px;
+    color: #FFFAFA;
+}
+
+/* .container {
+    width: auto;
+    height: 10%;
+    color: #db7093;
+} */
+
+.hero--info {
+    margin-top: 60px;
+    margin-left: 121px;
+}
+
+.text1 {
+    color: #FFCCD4;
+    font-size: 48px;
+}
+
+.text2 {
+    color: #FFFAFA;
+    font-size: 36px;
+}
+
+.text3 {
+    margin-top: 10px;
+    color: #FFCCD4;
+    font-size: 48px;
+}
+
+.text4 {
+    color: #FFFAFA;
+    font-size: 36px;
+}
+
+.text5 {
+    color: #FFFAFA;
+    font-size: 24px;
+}
+
+.text6 {
+    color: #FFCCD4;
+    font-size: 36px;
+}
+
+.text7 {
+    color: #FFFAFA;
+    font-size: 36px;
+}
+
+ul.shapka {
+    margin: 0;
+    padding: 4px;
+}
+
+ul.shapka li {
+    display: inline;
+    font-size: 36px;
+    padding: 5%;
+    margin-top: 5px;
+}
+
+.pisuni {
+    margin-top: 1000px;
+}
